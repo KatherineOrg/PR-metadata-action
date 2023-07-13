@@ -15,4 +15,4 @@ inputs:
     required: true
 runs:
   using: 'node16'
-  main: 'index.js'
+  main: 'dist/index.js' #make sure it is looking in the right directory
